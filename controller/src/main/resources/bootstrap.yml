@@ -1,0 +1,6 @@
+server:
+  port: 8080
+  content-path: /
+spring:
+  application:
+    name: demo
